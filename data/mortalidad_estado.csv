@@ -1,0 +1,305 @@
+,cve_entidad,desc_entidad,cve_municipio,desc_municipio,id_indicador,indicador,año,valor,unidad_medida
+0,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1994,20798.0,Defunciones
+1,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1995,21482.0,Defunciones
+2,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1996,21469.0,Defunciones
+3,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1997,21492.0,Defunciones
+4,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1998,21759.0,Defunciones
+5,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,1999,21753.0,Defunciones
+6,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2000,21401.0,Defunciones
+7,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2001,20375.0,Defunciones
+8,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2002,22285.0,Defunciones
+9,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2003,22493.0,Defunciones
+10,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2004,22237.0,Defunciones
+11,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2005,23402.0,Defunciones
+12,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2006,22973.0,Defunciones
+13,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2007,23664.0,Defunciones
+14,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2008,25104.0,Defunciones
+15,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2009,25422.0,Defunciones
+16,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2010,27132.0,Defunciones
+17,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2011,26550.0,Defunciones
+18,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2012,27454.0,Defunciones
+19,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2013,28657.0,Defunciones
+20,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2014,29474.0,Defunciones
+21,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2015,30170.0,Defunciones
+22,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2016,32202.0,Defunciones
+23,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2017,34794.0,Defunciones
+24,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2018,35880.0,Defunciones
+25,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2019,37347.0,Defunciones
+26,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2020,51677.0,Defunciones
+27,11,Guanajuato,0,Estatal,1002000030,Defunciones generales,2021,56279.0,Defunciones
+28,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1994,11502.0,Defunciones
+29,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1995,11648.0,Defunciones
+30,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1996,11768.0,Defunciones
+31,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1997,11760.0,Defunciones
+32,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1998,11794.0,Defunciones
+33,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,1999,11900.0,Defunciones
+34,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2000,11784.0,Defunciones
+35,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2001,10988.0,Defunciones
+36,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2002,11958.0,Defunciones
+37,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2003,12093.0,Defunciones
+38,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2004,12034.0,Defunciones
+39,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2005,12578.0,Defunciones
+40,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2006,12436.0,Defunciones
+41,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2007,12873.0,Defunciones
+42,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2008,13793.0,Defunciones
+43,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2009,13900.0,Defunciones
+44,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2010,14706.0,Defunciones
+45,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2011,14624.0,Defunciones
+46,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2012,15143.0,Defunciones
+47,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2013,15726.0,Defunciones
+48,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2014,16326.0,Defunciones
+49,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2015,16824.0,Defunciones
+50,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2016,17936.0,Defunciones
+51,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2017,19674.0,Defunciones
+52,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2018,20550.0,Defunciones
+53,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2019,21586.0,Defunciones
+54,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2020,30678.0,Defunciones
+55,11,Guanajuato,0,Estatal,1002000031,Defunciones generales hombres,2021,32580.0,Defunciones
+56,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1994,9281.0,Defunciones
+57,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1995,9822.0,Defunciones
+58,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1996,9696.0,Defunciones
+59,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1997,9725.0,Defunciones
+60,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1998,9960.0,Defunciones
+61,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,1999,9851.0,Defunciones
+62,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2000,9613.0,Defunciones
+63,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2001,9380.0,Defunciones
+64,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2002,10323.0,Defunciones
+65,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2003,10396.0,Defunciones
+66,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2004,10192.0,Defunciones
+67,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2005,10820.0,Defunciones
+68,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2006,10528.0,Defunciones
+69,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2007,10784.0,Defunciones
+70,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2008,11303.0,Defunciones
+71,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2009,11519.0,Defunciones
+72,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2010,12416.0,Defunciones
+73,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2011,11922.0,Defunciones
+74,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2012,12299.0,Defunciones
+75,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2013,12925.0,Defunciones
+76,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2014,13143.0,Defunciones
+77,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2015,13342.0,Defunciones
+78,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2016,14248.0,Defunciones
+79,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2017,15120.0,Defunciones
+80,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2018,15322.0,Defunciones
+81,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2019,15754.0,Defunciones
+82,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2020,20995.0,Defunciones
+83,11,Guanajuato,0,Estatal,1002000032,Defunciones generales mujeres,2021,23697.0,Defunciones
+84,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1994,15.0,Defunciones
+85,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1995,12.0,Defunciones
+86,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1996,5.0,Defunciones
+87,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1997,7.0,Defunciones
+88,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1998,5.0,Defunciones
+89,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,1999,2.0,Defunciones
+90,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2000,4.0,Defunciones
+91,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2001,7.0,Defunciones
+92,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2002,4.0,Defunciones
+93,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2003,4.0,Defunciones
+94,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2004,11.0,Defunciones
+95,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2005,4.0,Defunciones
+96,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2006,9.0,Defunciones
+97,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2007,7.0,Defunciones
+98,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2008,8.0,Defunciones
+99,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2009,3.0,Defunciones
+100,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2010,10.0,Defunciones
+101,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2011,4.0,Defunciones
+102,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2012,12.0,Defunciones
+103,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2013,6.0,Defunciones
+104,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2014,5.0,Defunciones
+105,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2015,4.0,Defunciones
+106,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2016,18.0,Defunciones
+107,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2017,0.0,Defunciones
+108,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2018,8.0,Defunciones
+109,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2019,7.0,Defunciones
+110,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2020,4.0,Defunciones
+111,11,Guanajuato,0,Estatal,1002000033,Defunciones generales de sexo no especificado,2021,2.0,Defunciones
+112,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1994,3478.0,Defunciones
+113,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1995,3466.0,Defunciones
+114,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1996,3107.0,Defunciones
+115,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1997,3031.0,Defunciones
+116,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1998,2824.0,Defunciones
+117,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,1999,2577.0,Defunciones
+118,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2000,2463.0,Defunciones
+119,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2001,2046.0,Defunciones
+120,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2002,2208.0,Defunciones
+121,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2003,1985.0,Defunciones
+122,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2004,1879.0,Defunciones
+123,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2005,1806.0,Defunciones
+124,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2006,1698.0,Defunciones
+125,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2007,1656.0,Defunciones
+126,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2008,1585.0,Defunciones
+127,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2009,1417.0,Defunciones
+128,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2010,1524.0,Defunciones
+129,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2011,1404.0,Defunciones
+130,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2012,1388.0,Defunciones
+131,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2013,1321.0,Defunciones
+132,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2014,1372.0,Defunciones
+133,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2015,1247.0,Defunciones
+134,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2016,1218.0,Defunciones
+135,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2017,1255.0,Defunciones
+136,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2018,1223.0,Defunciones
+137,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2019,1132.0,Defunciones
+138,11,Guanajuato,0,Estatal,1002000034,Defunciones de menores de un año,2020,984.0,Defunciones
+139,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1994,1984.0,Defunciones
+140,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1995,1951.0,Defunciones
+141,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1996,1796.0,Defunciones
+142,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1997,1683.0,Defunciones
+143,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1998,1568.0,Defunciones
+144,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,1999,1493.0,Defunciones
+145,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2000,1422.0,Defunciones
+146,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2001,1152.0,Defunciones
+147,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2002,1276.0,Defunciones
+148,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2003,1123.0,Defunciones
+149,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2004,1109.0,Defunciones
+150,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2005,1031.0,Defunciones
+151,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2006,936.0,Defunciones
+152,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2007,913.0,Defunciones
+153,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2008,890.0,Defunciones
+154,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2009,800.0,Defunciones
+155,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2010,858.0,Defunciones
+156,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2011,778.0,Defunciones
+157,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2012,778.0,Defunciones
+158,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2013,756.0,Defunciones
+159,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2014,787.0,Defunciones
+160,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2015,706.0,Defunciones
+161,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2016,724.0,Defunciones
+162,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2017,688.0,Defunciones
+163,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2018,634.0,Defunciones
+164,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2019,641.0,Defunciones
+165,11,Guanajuato,0,Estatal,1002000035,Defunciones de menores de un año hombres,2020,548.0,Defunciones
+166,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1994,1484.0,Defunciones
+167,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1995,1509.0,Defunciones
+168,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1996,1308.0,Defunciones
+169,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1997,1344.0,Defunciones
+170,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1998,1251.0,Defunciones
+171,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,1999,1082.0,Defunciones
+172,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2000,1037.0,Defunciones
+173,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2001,892.0,Defunciones
+174,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2002,931.0,Defunciones
+175,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2003,858.0,Defunciones
+176,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2004,762.0,Defunciones
+177,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2005,774.0,Defunciones
+178,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2006,754.0,Defunciones
+179,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2007,739.0,Defunciones
+180,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2008,692.0,Defunciones
+181,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2009,614.0,Defunciones
+182,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2010,656.0,Defunciones
+183,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2011,626.0,Defunciones
+184,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2012,603.0,Defunciones
+185,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2013,564.0,Defunciones
+186,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2014,582.0,Defunciones
+187,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2015,539.0,Defunciones
+188,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2016,493.0,Defunciones
+189,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2017,567.0,Defunciones
+190,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2018,581.0,Defunciones
+191,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2019,484.0,Defunciones
+192,11,Guanajuato,0,Estatal,1002000036,Defunciones de menores de un año mujeres,2020,432.0,Defunciones
+193,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1994,10.0,Defunciones
+194,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1995,6.0,Defunciones
+195,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1996,3.0,Defunciones
+196,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1997,4.0,Defunciones
+197,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1998,5.0,Defunciones
+198,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,1999,2.0,Defunciones
+199,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2000,4.0,Defunciones
+200,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2001,2.0,Defunciones
+201,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2002,1.0,Defunciones
+202,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2003,4.0,Defunciones
+203,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2004,8.0,Defunciones
+204,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2005,1.0,Defunciones
+205,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2006,8.0,Defunciones
+206,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2007,4.0,Defunciones
+207,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2008,3.0,Defunciones
+208,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2009,3.0,Defunciones
+209,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2010,10.0,Defunciones
+210,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2011,0.0,Defunciones
+211,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2012,7.0,Defunciones
+212,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2013,1.0,Defunciones
+213,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2014,3.0,Defunciones
+214,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2015,2.0,Defunciones
+215,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2016,1.0,Defunciones
+216,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2017,0.0,Defunciones
+217,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2018,8.0,Defunciones
+218,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2019,7.0,Defunciones
+219,11,Guanajuato,0,Estatal,1002000037,Defunciones de menores de un año de sexo no especificado,2020,4.0,Defunciones
+220,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1994,119.0,Defunciones
+221,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1995,105.0,Defunciones
+222,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1996,119.0,Defunciones
+223,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1997,167.0,Defunciones
+224,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1998,161.0,Defunciones
+225,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,1999,153.0,Defunciones
+226,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2000,180.0,Defunciones
+227,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2001,168.0,Defunciones
+228,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2002,203.0,Defunciones
+229,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2003,187.0,Defunciones
+230,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2004,173.0,Defunciones
+231,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2005,220.0,Defunciones
+232,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2006,187.0,Defunciones
+233,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2007,270.0,Defunciones
+234,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2008,298.0,Defunciones
+235,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2009,276.0,Defunciones
+236,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2010,283.0,Defunciones
+237,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2011,358.0,Defunciones
+238,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2012,338.0,Defunciones
+239,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2013,351.0,Defunciones
+240,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2014,422.0,Defunciones
+241,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2015,466.0,Defunciones
+242,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2016,459.0,Defunciones
+243,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2017,494.0,Defunciones
+244,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2018,504.0,Defunciones
+245,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2019,493.0,Defunciones
+246,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2020,501.0,Defunciones
+247,11,Guanajuato,0,Estatal,6200240338,Suicidios registrados,2021,449.0,Defunciones
+248,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1994,123.9,Porcentaje
+249,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1995,118.6,Porcentaje
+250,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1996,121.4,Porcentaje
+251,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1997,120.9,Porcentaje
+252,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1998,118.4,Porcentaje
+253,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,1999,120.8,Porcentaje
+254,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2000,122.6,Porcentaje
+255,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2001,117.1,Porcentaje
+256,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2002,115.8,Porcentaje
+257,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2003,116.3,Porcentaje
+258,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2004,118.1,Porcentaje
+259,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2005,116.2,Porcentaje
+260,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2006,118.1,Porcentaje
+261,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2007,119.4,Porcentaje
+262,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2008,122.0,Porcentaje
+263,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2009,120.7,Porcentaje
+264,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2010,118.4,Porcentaje
+265,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2011,122.7,Porcentaje
+266,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2012,123.1,Porcentaje
+267,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2013,121.7,Porcentaje
+268,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2014,124.2,Porcentaje
+269,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2015,126.1,Porcentaje
+270,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2016,125.87550003509,Porcentaje
+271,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2017,130.1190476,Porcentaje
+272,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2018,134.12087194883173,Porcentaje
+273,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2019,137.01916973467056,Porcentaje
+274,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2020,146.12050488211477,Porcentaje
+275,11,Guanajuato,0,Estatal,6200240468,Índice de sobremortalidad masculina,2021,137.48575769084695,Porcentaje
+276,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1994,5.09417808219178,Porcentaje
+277,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1995,4.87691593125871,Porcentaje
+278,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1996,5.39193475305845,Porcentaje
+279,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1997,7.39265161575919,Porcentaje
+280,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1998,6.85982104814657,Porcentaje
+281,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,1999,6.42317380352645,Porcentaje
+282,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2000,7.76866637893828,Porcentaje
+283,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2001,7.479964381122,Porcentaje
+284,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2002,8.71244635193133,Porcentaje
+285,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2003,8.30004438526409,Porcentaje
+286,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2004,7.6,Porcentaje
+287,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2005,9.2,Porcentaje
+288,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2006,8.4,Porcentaje
+289,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2007,11.3,Porcentaje
+290,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2008,11.8,Porcentaje
+291,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2009,10.6,Porcentaje
+292,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2010,11.1,Porcentaje
+293,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2011,12.8,Porcentaje
+294,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2012,11.5,Porcentaje
+295,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2013,12.4,Porcentaje
+296,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2014,14.6,Porcentaje
+297,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2015,13.8,Porcentaje
+298,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2016,12.4863982589772,Porcentaje
+299,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2017,10.5623262775283,Porcentaje
+300,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2018,8.920353982300885,Porcentaje
+301,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2019,7.934468358496627,Porcentaje
+302,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2020,7.059320839791461,Porcentaje
+303,11,Guanajuato,0,Estatal,6200240526,Porcentaje de muertes por suicidio con respecto al total de muertes violentas,2021,6.985065339141257,Porcentaje
