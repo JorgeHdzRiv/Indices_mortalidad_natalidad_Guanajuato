@@ -28,9 +28,14 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 ## Notebooks
 
-* [Limpieza y Filtrado de Datos](./limpieza.ipynb)
+* [Limpieza y Filtrado de Datos](./limpieza_filtrado.ipynb)
 
 * [Analisis de indice de mortalidad Estatal](./mortalidad_estado.ipynb)
+
+## Dashboard Final
+
+* [Codigo](./app.py)
+
 
 
 
