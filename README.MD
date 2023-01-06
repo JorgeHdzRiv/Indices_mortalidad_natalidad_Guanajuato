@@ -34,7 +34,9 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 ## Dashboard Final
 
-* [Codigo](./app.py)
+* [Codigo (Actualizandose)](./app.py)
+
+* [Dasboard desplegado (Actualizandose)](https://mortalidad-gto.onrender.com/)
 
 
 
