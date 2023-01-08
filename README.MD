@@ -32,12 +32,12 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 * [Analisis de indice de mortalidad Estatal](./mortalidad_estado.ipynb)
 
+* [Analisis de indice de mortalidad por municipios](./mortalidad_municipios.ipynb)
+
 ## Dashboard Final
 
 * [Codigo (Actualizandose)](./app.py)
 
 * [Dasboard desplegado (Actualizandose)](https://mortalidad-gto.onrender.com/)
-
-
 
 
