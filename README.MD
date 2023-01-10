@@ -28,6 +28,8 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 ## Notebooks
 
+Cada notebook cuenta con un dashboard interactivo al correr las celdas del apartado Dashboard
+
 * [Limpieza y Filtrado de Datos](./limpieza_filtrado.ipynb)
 
 * [Analisis de indice de mortalidad Estatal](./mortalidad_estado.ipynb)
