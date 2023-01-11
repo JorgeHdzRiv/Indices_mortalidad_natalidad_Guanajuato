@@ -10,6 +10,7 @@ server = app.server
 #------------------------------DATA--------------------------------------#
 estado = pd.read_csv('./data/mortalidad_estado.csv',index_col=0)
 municipios = pd.read_csv('./data/mortalidad_municipios.csv',index_col=0)
+no_especificados = pd.read_csv('./data/mortalidad_no_especificado.csv',index_col=0)
 estado_defunciones = estado[estado['unidad_medida'] == 'Defunciones']
 estado_porcentaje = estado[estado['unidad_medida'] == 'Porcentaje']
 
@@ -159,7 +160,50 @@ app.layout = html.Div(children=[
     dcc.Graph(id='municipio-porcentaje'),
     
 #------------------NO ESPECIFICADO-----------------------------------------#
+html.H1('Analisis en lugares no especificados'),
     
+    #-----------------Lineal------------------------#
+    html.H3('Defunciones a traves del tiempo lugares no especificados'),
+    
+    html.Div([
+        html.H5('Selecciona un indicador o varios'),
+        dcc.Checklist(
+        id="checklist_especificados",
+        options=options,
+        value=["Defunciones generales", "Defunciones generales hombres","Defunciones generales mujeres"]
+        ),
+    ]),
+    
+    dcc.Graph(id='line_especificados'),
+    
+    #---------------------------------------Histograma-----------------------#
+    html.H3('Histograma a traves del tiempo por indicador'),
+    
+    html.Div([
+        dcc.Dropdown(
+            id = 'indicador_esp',
+            options = [{'label': i,'value': i} for i in available_indicators],
+            value='Defunciones generales'
+        )
+    ]),
+    
+    dcc.Graph(id='histograma_esp'),
+    
+    #-----------------------Circular-----------------------------------------#
+    html.H3('Porcentaje de los indicadores en el tiempo'),
+    
+    html.Div([
+        dcc.Slider(
+            id='year-slider-esp',
+            min=no_especificados['año'].min(),
+            max=no_especificados['año'].max(),
+            value=no_especificados['año'].min(),
+            marks={str(año): str(año) for año in no_especificados['año'].unique()},
+            step=None
+        ),
+    ]),
+    
+    dcc.Graph(id='circular_esp'),
     
 ], style={'background-color': '#FFF0B2'})
 
@@ -273,6 +317,46 @@ def update_pie(year,indicador):
     return fig
 
 #---------------------------NO ESPECIFICADO CALLBACKS--------------------#
+@app.callback(
+    Output('line_especificados','figure'),
+    Input('checklist_especificados','value')
+)
+
+def update_line_esp(indicadores):
+    filtro = no_especificados['indicador'].isin(indicadores)
+    fig = px.line(no_especificados[filtro],x="año", y="valor",labels={'valor':'Numero de defunciones'}, color='indicador',title='Indicadores a traves del tiempo en lugares no especificados')
+    
+    return fig
+
+#-------------------Histograma--------------------------#
+@app.callback(
+    Output('histograma_esp','figure'),
+    Input('indicador_esp','value')
+)
+
+def update_histogram_esp(indicador):
+    filtro = no_especificados[(no_especificados['indicador'] == indicador)]
+    
+    fig = px.bar(filtro,x='año',y='valor',color='valor',labels={'valor':'Numero de defunciones'}, title=f'Histograma del indicador {indicador} en lugares no especificados')
+    
+    fig.update_layout(transition_duration = 500)
+    
+    return fig
+
+#------------------Circular--------------------------------#   
+@app.callback(
+    Output('circular_esp', 'figure'),
+    Input('year-slider-esp', 'value')
+)
+
+def update_circular(selected_year):
+    filtered_df = no_especificados[no_especificados.año == selected_year]
+    
+    fig = px.pie(filtered_df, values='valor', names='indicador', title=f'Porcentaje de los indicadores en lugares no especificados en {selected_year}')             
+
+    fig.update_layout(transition_duration=500)
+
+    return fig
 
 """#---------------------------MAIN--------------------------------------#"""
 if __name__ == '__main__':
