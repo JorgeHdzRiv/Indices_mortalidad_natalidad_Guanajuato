@@ -28,13 +28,15 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 ## Notebooks
 
-Cada notebook cuenta con un dashboard interactivo **es necesario correr las celdad de codigo**
+Cada notebook cuenta con un dashboard interactivo **es necesario correr las celdas de codigo**
 
 * [Limpieza y Filtrado de Datos](./limpieza_filtrado.ipynb)
 
 * [Analisis de indice de mortalidad Estatal](./mortalidad_estado.ipynb)
 
 * [Analisis de indice de mortalidad por municipios](./mortalidad_municipios.ipynb)
+
+* [Analisis de indice de mortalidad en lugares no especificados](./mortalidad_no_especificado.ipynb)
 
 ## Dashboard Final
 
