@@ -28,7 +28,7 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 ## Notebooks
 
-Cada notebook cuenta con un dashboard interactivo al correr las celdas del apartado Dashboard
+Cada notebook cuenta con un dashboard interactivo **es necesario correr las celdad de codigo**
 
 * [Limpieza y Filtrado de Datos](./limpieza_filtrado.ipynb)
 
