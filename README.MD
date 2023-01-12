@@ -1,10 +1,10 @@
 # Introduccion
 
-En este proyecto se hara un proyecto sobre el analisis del indice de mortalidad en el estado de Guanajuato ademas del analisis de las mismas en los municipios correspondientes gracias a datos abiertos del INEGI.
+En este proyecto se hara un proyecto sobre el analisis del indice de mortalidad y natalidad en el estado de Guanajuato ademas del analisis en los municipios correspondientes gracias a datos abiertos del INEGI.
 
 * [Datos INEGI](https://www.inegi.org.mx/app/descarga/)
 
-## Informacion del dataset
+## Informacion del dataset de mortalidad
 
 | Id        | Nombre   | Descripcion |
 |--------------|-----------|------------|
@@ -19,6 +19,19 @@ En este proyecto se hara un proyecto sobre el analisis del indice de mortalidad 
 |6200240338|Suicidios registrados|Defunciones registradas por entidad federativa de residencia habitual de la persona fallecida|
 |6200240468|Índice de sobremortalidad masculina|Es la relación de las defunciones masculinas por cada cien defunciones femeninas|
 |6200240526|Porcentaje de muertes por suicidio con respecto al total de muertes violentas|El cálculo se realizó con base en las defunciones generales de residencia habitual de la persona fallecida|
+
+## Informacion del dataset de natalidad
+
+| Id        | Nombre   | Descripcion |
+|--------------|-----------|------------|
+|1002000026| Nacimientos| Esta información se actualiza anualmente   |
+|1002000027|Nacimientos hombres|La información se presenta por lugar de residencia habitual del nacimiento|
+|1002000028|Nacimientos mujeres|La información se presenta por lugar de residencia habitual del nacimiento|
+|1002000029|Nacimiento de sexo no especificado|La información se presenta por lugar de residencia habitual del nacimiento no especificado|
+|6200240469|Relación de nacimientos mujeres-hombres|La información se presenta por la relacion en el estado|
+|6200240470|Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años)|La información se presenta por el porcentaje en el estado|
+
+## Recomendaciones
 
 ## Requerimientos
 
