@@ -33,6 +33,12 @@ En este proyecto se hara un proyecto sobre el analisis del indice de mortalidad 
 
 ## Recomendaciones
 
+### Instalaciones necesarias
+
+Para poder abrir los archivos con extension xlsx o de excel por medio de pandas
+
+`pip install openpyxl`
+
 ## Requerimientos
 
 Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente creado, los requerimientos se pueden ver en este archivo de texto:
