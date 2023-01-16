@@ -57,6 +57,8 @@ Cada notebook cuenta con un dashboard interactivo **es necesario correr las celd
 
 * [Analisis de indice de mortalidad en lugares no especificados](./mortalidad_no_especificado.ipynb)
 
+* [Analisis de indice de natalidad en el estado y en lugares no especificados](./natalidad_estado_especificado.ipynb)
+
 ## Dashboard Final
 
 * [Codigo (Actualizandose)](./app.py)

@@ -1,1 +1,281 @@
 ,cve_entidad,desc_entidad,cve_municipio,desc_municipio,id_indicador,indicador,year,unidad_medida,valor
+0,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1994,Nacimientos,147764.0
+1,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1995,Nacimientos,139199.0
+2,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1996,Nacimientos,138433.0
+3,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1997,Nacimientos,138450.0
+4,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1998,Nacimientos,135687.0
+5,11,Guanajuato,0,Estatal,1002000026,Nacimientos,1999,Nacimientos,139930.0
+6,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2000,Nacimientos,135424.0
+7,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2001,Nacimientos,135671.0
+8,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2002,Nacimientos,123313.0
+9,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2003,Nacimientos,130183.0
+10,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2004,Nacimientos,123312.0
+11,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2005,Nacimientos,127290.0
+12,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2006,Nacimientos,118270.0
+13,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2007,Nacimientos,127270.0
+14,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2008,Nacimientos,125187.0
+15,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2009,Nacimientos,125272.0
+16,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2010,Nacimientos,126741.0
+17,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2011,Nacimientos,124003.0
+18,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2012,Nacimientos,122412.0
+19,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2013,Nacimientos,119083.0
+20,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2014,Nacimientos,114890.0
+21,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2015,Nacimientos,114269.0
+22,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2016,Nacimientos,117281.0
+23,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2017,Nacimientos,116531.0
+24,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2018,Nacimientos,116207.0
+25,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2019,Nacimientos,110755.0
+26,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2020,Nacimientos,85259.0
+27,11,Guanajuato,0,Estatal,1002000026,Nacimientos,2021,Nacimientos,107409.0
+28,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1994,Nacimientos,74941.0
+29,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1995,Nacimientos,70943.0
+30,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1996,Nacimientos,70576.0
+31,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1997,Nacimientos,69814.0
+32,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1998,Nacimientos,68560.0
+33,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,1999,Nacimientos,70065.0
+34,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2000,Nacimientos,68261.0
+35,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2001,Nacimientos,68495.0
+36,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2002,Nacimientos,61990.0
+37,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2003,Nacimientos,64315.0
+38,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2004,Nacimientos,61795.0
+39,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2005,Nacimientos,64156.0
+40,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2006,Nacimientos,59604.0
+41,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2007,Nacimientos,63946.0
+42,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2008,Nacimientos,63121.0
+43,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2009,Nacimientos,63552.0
+44,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2010,Nacimientos,63954.0
+45,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2011,Nacimientos,62944.0
+46,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2012,Nacimientos,62127.0
+47,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2013,Nacimientos,60418.0
+48,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2014,Nacimientos,58545.0
+49,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2015,Nacimientos,58217.0
+50,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2016,Nacimientos,59732.0
+51,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2017,Nacimientos,58935.0
+52,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2018,Nacimientos,59261.0
+53,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2019,Nacimientos,56425.0
+54,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2020,Nacimientos,43278.0
+55,11,Guanajuato,0,Estatal,1002000027,Nacimientos hombres,2021,Nacimientos,54314.0
+56,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1994,Nacimientos,72768.0
+57,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1995,Nacimientos,68220.0
+58,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1996,Nacimientos,67814.0
+59,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1997,Nacimientos,68612.0
+60,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1998,Nacimientos,67116.0
+61,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,1999,Nacimientos,69848.0
+62,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2000,Nacimientos,67145.0
+63,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2001,Nacimientos,67175.0
+64,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2002,Nacimientos,61307.0
+65,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2003,Nacimientos,65859.0
+66,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2004,Nacimientos,61413.0
+67,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2005,Nacimientos,63097.0
+68,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2006,Nacimientos,58644.0
+69,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2007,Nacimientos,63209.0
+70,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2008,Nacimientos,62054.0
+71,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2009,Nacimientos,61678.0
+72,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2010,Nacimientos,62753.0
+73,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2011,Nacimientos,61034.0
+74,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2012,Nacimientos,60253.0
+75,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2013,Nacimientos,58634.0
+76,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2014,Nacimientos,56335.0
+77,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2015,Nacimientos,56045.0
+78,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2016,Nacimientos,57547.0
+79,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2017,Nacimientos,57593.0
+80,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2018,Nacimientos,56939.0
+81,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2019,Nacimientos,54304.0
+82,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2020,Nacimientos,41979.0
+83,11,Guanajuato,0,Estatal,1002000028,Nacimientos mujeres,2021,Nacimientos,53094.0
+84,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1994,Nacimientos,55.0
+85,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1995,Nacimientos,36.0
+86,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1996,Nacimientos,43.0
+87,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1997,Nacimientos,24.0
+88,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1998,Nacimientos,11.0
+89,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,1999,Nacimientos,17.0
+90,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2000,Nacimientos,18.0
+91,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2001,Nacimientos,1.0
+92,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2002,Nacimientos,16.0
+93,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2003,Nacimientos,9.0
+94,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2004,Nacimientos,104.0
+95,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2005,Nacimientos,37.0
+96,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2006,Nacimientos,22.0
+97,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2007,Nacimientos,115.0
+98,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2008,Nacimientos,12.0
+99,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2009,Nacimientos,42.0
+100,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2010,Nacimientos,34.0
+101,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2011,Nacimientos,25.0
+102,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2012,Nacimientos,32.0
+103,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2013,Nacimientos,31.0
+104,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2014,Nacimientos,10.0
+105,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2015,Nacimientos,7.0
+106,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2016,Nacimientos,2.0
+107,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2017,Nacimientos,3.0
+108,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2018,Nacimientos,7.0
+109,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2019,Nacimientos,26.0
+110,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2020,Nacimientos,2.0
+111,11,Guanajuato,0,Estatal,1002000029,Nacimientos de sexo no especificado,2021,Nacimientos,1.0
+112,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1994,Porcentaje,97.1003856367009
+113,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1995,Porcentaje,96.1617072861311
+114,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1996,Porcentaje,96.0864883246429
+115,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1997,Porcentaje,98.2782822929498
+116,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1998,Porcentaje,97.8938156359393
+117,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,1999,Porcentaje,99.6902875900949
+118,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2000,Porcentaje,98.3650986654166
+119,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2001,Porcentaje,98.0728520329951
+120,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2002,Porcentaje,98.8982093886111
+121,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2003,Porcentaje,102.400684132784
+122,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2004,Porcentaje,99.3818270086577
+123,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2005,Porcentaje,98.3493359935158
+124,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2006,Porcentaje,98.3893698409503
+125,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2007,Porcentaje,98.8474650486348
+126,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2008,Porcentaje,98.309595855579
+127,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2009,Porcentaje,97.0512336354481
+128,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2010,Porcentaje,98.1220877505707
+129,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2011,Porcentaje,96.9655566853076
+130,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2012,Porcentaje,96.9835981135416
+131,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2013,Porcentaje,97.0472375782052
+132,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2014,Porcentaje,96.2
+133,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2015,Porcentaje,96.3
+134,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2016,Porcentaje,96.3419942409429
+135,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2017,Porcentaje,97.7229150759311
+136,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2018,Porcentaje,96.0817400988846
+137,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2019,Porcentaje,96.24102791315906
+138,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2020,Porcentaje,96.99847497573823
+139,11,Guanajuato,0,Estatal,6200240469,Relación de nacimientos mujeres - hombres,2021,Porcentaje,97.75380196634384
+140,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1994,Porcentaje,13.2027908106062
+141,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1995,Porcentaje,13.0121006159086
+142,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1996,Porcentaje,13.1092779151837
+143,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1997,Porcentaje,13.1416415042547
+144,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1998,Porcentaje,13.4180747409965
+145,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),1999,Porcentaje,14.1834997815837
+146,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2000,Porcentaje,14.2
+147,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2001,Porcentaje,14.6
+148,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2002,Porcentaje,14.2
+149,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2003,Porcentaje,14.6
+150,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2004,Porcentaje,15.0
+151,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2005,Porcentaje,15.5
+152,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2006,Porcentaje,15.4
+153,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2007,Porcentaje,16.0
+154,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2008,Porcentaje,16.9
+155,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2009,Porcentaje,17.2
+156,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2010,Porcentaje,17.6
+157,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2011,Porcentaje,18.2
+158,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2012,Porcentaje,18.4
+159,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2013,Porcentaje,18.9
+160,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2014,Porcentaje,18.7
+161,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2015,Porcentaje,17.7
+162,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2016,Porcentaje,17.5062983195824
+163,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2017,Porcentaje,17.7695004382121
+164,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2018,Porcentaje,17.4694249969293
+165,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2019,Porcentaje,16.713022656106094
+166,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2020,Porcentaje,14.008924238658286
+167,11,Guanajuato,0,Estatal,6200240470,Porcentaje de nacimientos registrados de madres adolescentes (menores de 20 años),2021,Porcentaje,15.856782292947017
+5320,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1994,Nacimientos,36.0
+5321,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1995,Nacimientos,6.0
+5322,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1996,Nacimientos,16.0
+5323,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1997,Nacimientos,13.0
+5324,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1998,Nacimientos,14.0
+5325,11,Guanajuato,996,No especificado,1002000026,Nacimientos,1999,Nacimientos,5.0
+5326,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2000,Nacimientos,15.0
+5327,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2001,Nacimientos,5.0
+5328,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2002,Nacimientos,12.0
+5329,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2003,Nacimientos,21.0
+5330,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2004,Nacimientos,117.0
+5331,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2005,Nacimientos,7.0
+5332,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2006,Nacimientos,7.0
+5333,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2007,Nacimientos,6.0
+5334,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2008,Nacimientos,4.0
+5335,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2009,Nacimientos,6.0
+5336,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2010,Nacimientos,4.0
+5337,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2011,Nacimientos,3.0
+5338,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2012,Nacimientos,10.0
+5339,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2013,Nacimientos,4.0
+5340,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2014,Nacimientos,6.0
+5341,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2015,Nacimientos,7.0
+5342,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2016,Nacimientos,8.0
+5343,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2017,Nacimientos,8.0
+5344,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2018,Nacimientos,10.0
+5345,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2019,Nacimientos,4.0
+5346,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2020,Nacimientos,5.0
+5347,11,Guanajuato,996,No especificado,1002000026,Nacimientos,2021,Nacimientos,8.0
+5348,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1994,Nacimientos,17.0
+5349,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1995,Nacimientos,4.0
+5350,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1996,Nacimientos,3.0
+5351,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1997,Nacimientos,2.0
+5352,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1998,Nacimientos,5.0
+5353,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,1999,Nacimientos,2.0
+5354,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2000,Nacimientos,9.0
+5355,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2001,Nacimientos,2.0
+5356,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2002,Nacimientos,6.0
+5357,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2003,Nacimientos,11.0
+5358,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2004,Nacimientos,60.0
+5359,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2005,Nacimientos,4.0
+5360,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2006,Nacimientos,5.0
+5361,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2007,Nacimientos,3.0
+5362,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2008,Nacimientos,1.0
+5363,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2009,Nacimientos,0.0
+5364,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2010,Nacimientos,1.0
+5365,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2011,Nacimientos,3.0
+5366,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2012,Nacimientos,6.0
+5367,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2013,Nacimientos,1.0
+5368,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2014,Nacimientos,4.0
+5369,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2015,Nacimientos,2.0
+5370,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2016,Nacimientos,5.0
+5371,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2017,Nacimientos,2.0
+5372,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2018,Nacimientos,4.0
+5373,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2019,Nacimientos,1.0
+5374,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2020,Nacimientos,3.0
+5375,11,Guanajuato,996,No especificado,1002000027,Nacimientos hombres,2021,Nacimientos,4.0
+5376,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1994,Nacimientos,19.0
+5377,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1995,Nacimientos,2.0
+5378,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1996,Nacimientos,13.0
+5379,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1997,Nacimientos,11.0
+5380,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1998,Nacimientos,9.0
+5381,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,1999,Nacimientos,3.0
+5382,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2000,Nacimientos,6.0
+5383,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2001,Nacimientos,3.0
+5384,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2002,Nacimientos,6.0
+5385,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2003,Nacimientos,10.0
+5386,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2004,Nacimientos,56.0
+5387,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2005,Nacimientos,3.0
+5388,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2006,Nacimientos,2.0
+5389,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2007,Nacimientos,2.0
+5390,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2008,Nacimientos,3.0
+5391,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2009,Nacimientos,6.0
+5392,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2010,Nacimientos,3.0
+5393,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2011,Nacimientos,0.0
+5394,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2012,Nacimientos,4.0
+5395,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2013,Nacimientos,3.0
+5396,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2014,Nacimientos,2.0
+5397,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2015,Nacimientos,5.0
+5398,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2016,Nacimientos,3.0
+5399,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2017,Nacimientos,6.0
+5400,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2018,Nacimientos,6.0
+5401,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2019,Nacimientos,3.0
+5402,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2020,Nacimientos,2.0
+5403,11,Guanajuato,996,No especificado,1002000028,Nacimientos mujeres,2021,Nacimientos,4.0
+5404,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1994,Nacimientos,0.0
+5405,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1995,Nacimientos,0.0
+5406,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1996,Nacimientos,0.0
+5407,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1997,Nacimientos,0.0
+5408,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1998,Nacimientos,0.0
+5409,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,1999,Nacimientos,0.0
+5410,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2000,Nacimientos,0.0
+5411,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2001,Nacimientos,0.0
+5412,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2002,Nacimientos,0.0
+5413,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2003,Nacimientos,0.0
+5414,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2004,Nacimientos,1.0
+5415,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2005,Nacimientos,0.0
+5416,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2006,Nacimientos,0.0
+5417,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2007,Nacimientos,1.0
+5418,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2008,Nacimientos,0.0
+5419,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2009,Nacimientos,0.0
+5420,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2010,Nacimientos,0.0
+5421,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2011,Nacimientos,0.0
+5422,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2012,Nacimientos,0.0
+5423,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2013,Nacimientos,0.0
+5424,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2014,Nacimientos,0.0
+5425,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2015,Nacimientos,0.0
+5426,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2016,Nacimientos,0.0
+5427,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2017,Nacimientos,0.0
+5428,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2018,Nacimientos,0.0
+5429,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2019,Nacimientos,0.0
+5430,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2020,Nacimientos,0.0
+5431,11,Guanajuato,996,No especificado,1002000029,Nacimientos de sexo no especificado,2021,Nacimientos,0.0
