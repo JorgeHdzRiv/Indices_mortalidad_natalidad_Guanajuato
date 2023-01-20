@@ -49,15 +49,18 @@ Se esta usando una version 3.10.7 de Python en un ambiente virtual previamente c
 
 Cada notebook cuenta con un dashboard interactivo **es necesario correr las celdas de codigo**
 
-* [Limpieza y Filtrado de Datos](./limpieza_filtrado.ipynb)
+* [Limpieza y Filtrado de Datos](./notebooks/limpieza_filtrado.ipynb)
 
-* [Analisis de indice de mortalidad Estatal](./mortalidad_estado.ipynb)
+* [Analisis de indice de mortalidad Estatal](./notebooks/mortalidad_estado.ipynb)
 
-* [Analisis de indice de mortalidad por municipios](./mortalidad_municipios.ipynb)
+* [Analisis de indice de mortalidad por municipios](./notebooks/mortalidad_municipios.ipynb)
 
-* [Analisis de indice de mortalidad en lugares no especificados](./mortalidad_no_especificado.ipynb)
+* [Analisis de indice de mortalidad en lugares no especificados](./notebooks/mortalidad_no_especificado.ipynb)
 
-* [Analisis de indice de natalidad en el estado y en lugares no especificados](./natalidad_estado_especificado.ipynb)
+* [Analisis de indice de natalidad en el estado y en lugares no especificados](./notebooks/natalidad_estado_especificado.ipynb)
+
+* [Analisis de indice de natalidad por municipios](./notebooks/natalidad_municipios.ipynb)
+
 
 ## Dashboard Final
 
