@@ -66,6 +66,6 @@ Cada notebook cuenta con un dashboard interactivo **es necesario correr las celd
 
 * [Codigo (Actualizandose)](./app.py)
 
-* [Dasboard desplegado (Actualizandose)](https://mortalidad-gto.onrender.com/)
+* [Dasboard desplegado (Actualizandose)](https://mortalidad-natalidad-gto.onrender.com/)
 
 
