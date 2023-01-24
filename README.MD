@@ -35,6 +35,10 @@ En este proyecto se hara un proyecto sobre el analisis del indice de mortalidad 
 
 ### Instalaciones necesarias
 
+Se recomienda ampliamente instalar los requerimientos descritos en el archivo de texto desde el comando:
+
+`pip install -r requirements.txt`
+
 Para poder abrir los archivos con extension xlsx o de excel por medio de pandas
 
 `pip install openpyxl`
